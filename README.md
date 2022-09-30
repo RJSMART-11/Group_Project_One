@@ -20,6 +20,16 @@ Impact of Federal Reserve Monetary Policy on asset prices - Housing, Crypto, Sha
 - See optimal investment mix and timing
 - Recommendation for the investor 
 
+### Timeline
+- **Poject Submission Date:** 06-Oct-2022
+- **Project Milestone**
+  - 29-Sep-2022 (Thur) - completed
+    - Research Completed
+  - 02-Oct-2022 (Sun) - in progress
+    - Data Collection (API/json, csv) 
+    - Initial Coding
+    - Initial Documentation
+
 ## Scope
 - Analyze Financial Data
 - Stock Portfolios
@@ -32,10 +42,6 @@ Impact of Federal Reserve Monetary Policy on asset prices - Housing, Crypto, Sha
 - Forecast likely optimal portfolio mix. 
 - Potential risks to performance
 - Investment strategy recommendations(s)
-
-### Time frame
-- Research completed by Thursday 29th
-- Collect data (API)
 
 ### Data Collection & Prepration (based on the Team's original plan)
 - Cryptocurrency (Robert)
