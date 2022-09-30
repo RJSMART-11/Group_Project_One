@@ -16,6 +16,10 @@ Impact of Federal Reserve Monetary Policy on asset prices - Housing, Crypto, Sha
 - We will give him $5M liquid and $5M fixed to assets within our chosen asset classes i.e. ( 2,000,000 - Housing)(1,000,000 - S&P 500)(1,000,000 - NASDAQ 100)(500,000 - Bitcoin, 500,000 - Etherum) 
 - Growth portfolio
 
+### Expected Result
+- See optimal investment mix and timing
+- Recommendation for the investor 
+
 ## Scope
 - Analyze Financial Data
 - Stock Portfolios
@@ -28,10 +32,6 @@ Impact of Federal Reserve Monetary Policy on asset prices - Housing, Crypto, Sha
 - Forecast likely optimal portfolio mix. 
 - Potential risks to performance
 - Investment strategy recommendations(s)
-
-### Expected Result
-- See optimal investment mix and timing
-- Recommendation for the investor 
 
 ### Time frame
 - Research completed by Thursday 29th
