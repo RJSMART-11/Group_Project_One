@@ -33,7 +33,7 @@
  ### Technical and Analysis Tools:
  RIPPED utilised the following technical tools to produce a detailed presentation and report:
 
-!https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/tools.png
+![https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/tools.png](https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/tools.png)
 
  ### Summary Recommendations:
  As detailed in the report, RIPPED has made the following recommendations based.
@@ -55,13 +55,13 @@
  	Bonds:	-20.785%
 
  ## SP500 Cumulative Returns Chart:
-!https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/Picture%201.png
+![https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/Picture%201.png](https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/Picture%201.png)
 
  ## Nasdaq Cumulative Returns Chart:
-!https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/Picture%202.png
+![https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/Picture%202.png](https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/Picture%202.png)
 
  ## Bonds Cumulative Returns Chart:
-!https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/Picture%203.png
+![https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/Picture%203.png](https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/Picture%203.png)
 
  ## Annual volatility
  Annualized volatility describes the variation in a asset's value over the course of a year. This measure indicates the level of risk associated with an investment. This includes the distribution of a portfolio that features the asset, and the likelihood of a shortfall when during the asset's eventual sale.
@@ -85,13 +85,13 @@
  ![(Images/S&P500 data.png)](https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/S%26P500%20data.png)
 
  ### Nasdaq:
-!https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/NDAQ%20data.png
+![https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/NDAQ%20data.png](https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/NDAQ%20data.png)
 
  ### Bonds (US 30 Year Bonds):
-!https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/Bond%20data.png
+![https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/Bond%20data.png](https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/Bond%20data.png)
 
  ### Correlation of Asset Performance Returns:
-!https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/correlation_plot.png
+![https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/correlation_plot.png](https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/correlation_plot.png)
 
 
  ### References
