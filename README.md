@@ -1,4 +1,4 @@
-# Group_Project_One
+# Group Project One
  
  ![[Images/title_picture.png]](https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/title_picture.png)
  ## Executive summary:
