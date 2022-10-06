@@ -3,20 +3,27 @@
  ![[Images/title_picture.png]](https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/title_picture.png)
  ## Executive summary:
  A client approached RIPPED - an investment consulting company - requiring technical advice on how to invest in the current volatile market conditions. The investor is fully aware that share and crypto prices have been volatile and declining as the US Federal Reserve has dramatically increased the overnight cash rate. 
-
+---
  With the US 2-year treasury rising from almost zero to 4.16% and the S&P 500 and Nasdaq decreasing in 2022 by 19.6% and 26% respectively, it is time to review the client’s portfolio to provide recommendation (s) that provides the optimal returns with the lowest possible risk. 
-
+---
  RIPPED has produced for the investor a technical report specifically detailing past percent investment performance, risk analysis, correlation between interest rates moves and the indexes. Based on the analysis RIPPED has also provided Monte Carlo simulations projecting future probable returns. 
-
+---
  ### Available Investment Funds:
+ ---
  Comprised of $100,000 evenly split:
- 	S&P500 - $50,000
- 	NASDQ - $50,000
+ S&P500 - $50,000
+ ---
+ NASDQ - $50,000
+ ---
 
  ### Objectives are as follows:
- 	Maximise returns\performance
- 	Evaluate investment split and determine best weighting. 
- 	To provide 5 year forecasts providing client with several suitable investment options. 
+ ---
+ Maximise returns\performance
+ ---
+Evaluate investment split and determine best weighting.
+ ---
+ To provide 5 year forecasts providing client with several suitable investment options. 
+ ---
 
  ### Analysis and Forecast Periods:
 
