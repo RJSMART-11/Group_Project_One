@@ -33,7 +33,7 @@
  ### Technical and Analysis Tools:
  RIPPED utilised the following technical tools to produce a detailed presentation and report:
 
- (Images/tools.png)	
+!https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/tools.png
 
  ### Summary Recommendations:
  As detailed in the report, RIPPED has made the following recommendations based.
@@ -55,13 +55,13 @@
  	Bonds:	-20.785%
 
  ## SP500 Cumulative Returns Chart:
- (Images/Picture 1.png)
+!https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/Picture%201.png
 
  ## Nasdaq Cumulative Returns Chart:
- (Images/Picture 2.png)
+!https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/Picture%202.png
 
  ## Bonds Cumulative Returns Chart:
- (Images/Picture 3.png)
+!https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/Picture%203.png
 
  ## Annual volatility
  Annualized volatility describes the variation in a asset's value over the course of a year. This measure indicates the level of risk associated with an investment. This includes the distribution of a portfolio that features the asset, and the likelihood of a shortfall when during the asset's eventual sale.
@@ -82,16 +82,16 @@
  The following tables provides statistical forecasts:
 
  ### SP500:
- (Images/S&P500 data.png)
+ ![(Images/S&P500 data.png)](https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/S%26P500%20data.png)
 
  ### Nasdaq:
- (Images/NDAQ data.png)
+!https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/NDAQ%20data.png
 
  ### Bonds (US 30 Year Bonds):
- (Images/Bond data.png)
+!https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/Bond%20data.png
 
  ### Correlation of Asset Performance Returns:
- (Images/correlation.png)
+!https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/correlation_plot.png
 
 
  ### References
