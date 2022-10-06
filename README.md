@@ -23,15 +23,15 @@
 
  ### Analysis and Forecast Periods:
 
- 	Back test data from 01/10/2002 to 29/09/2022
- 	Monte Carlo forecasts for 5 years.
+ - Back test data from 01/10/2002 to 29/09/2022
+ - Monte Carlo forecasts for 5 years.
 
  ### RIPPED has performed the following:
- 	Analysed current portfolio and potential risk to performance
- 	Provided recommendation to minimise volatility???
- 	Forecast future in interest levels and likely asset performance outcomes
- 	Determine a forecasted optimal portfolio mix. 
- 	Provided recommendations to his investment strategy 
+ -	Analysed current portfolio and potential risk to performance
+ -	Provided recommendation to minimise volatility???
+ -	Forecast future in interest levels and likely asset performance outcomes
+ -	Determine a forecasted optimal portfolio mix. 
+ -	Provided recommendations to his investment strategy 
 
  ### Technical and Analysis Tools:
  RIPPED utilised the following technical tools to produce a detailed presentation and report:
@@ -41,8 +41,8 @@
  ### Summary Recommendations:
  As detailed in the report, RIPPED has made the following recommendations based.
 
-•The Heavy weight - NASDAQ Portfolio has the greatest return potential of $633,339.
-•The Heavy weight - SPY Portfolio has the least downside return potential with $80,192.
+- The Heavy weight - NASDAQ Portfolio has the greatest return potential of $633,339.
+- The Heavy weight - SPY Portfolio has the least downside return potential with $80,192.
 
  ## 1.	Detailed Analysis Outcomes 
 
