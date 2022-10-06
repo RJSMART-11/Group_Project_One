@@ -100,3 +100,17 @@
  ### References
  ---
  ![(References.md)](https://github.com/RJSMART-11/Group_Project_One/blob/main/References.md)
+ 
+ ### Next time
+  - Forecast interest rates
+  - Bulit in calculator/ ability to make it inter-active
+  - Include more assets class
+  - Experince more functions within pyfolio
+ 
+ ### Challenges
+ - Timeframe
+ - Data Collection - Bonds
+ - Pyfolio Concaternation
+ ### Installation
+ - Pyfolio - git+https://github.com/quantopian/pyfolio
+ - yfinance - pip install yfinance
