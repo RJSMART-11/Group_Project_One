@@ -1,6 +1,6 @@
 # Group_Project_One
  Group project one - fintechbootcamp
- ([[Images/title_picture.png]](https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/title_picture.png))
+ [[Images/title_picture.png]](https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/title_picture.png)
  ## Executive summary:
  A client approached RIPPED - an investment consulting company - requiring technical advice on how to invest in the current volatile market conditions. The investor is fully aware that share and crypto prices have been volatile and declining as the US Federal Reserve has dramatically increased the overnight cash rate. 
 
