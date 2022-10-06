@@ -18,13 +18,13 @@
  ### Objectives are as follows:
  ---
 - Maximise returns\performance
-- Evaluate investment split and determine best weighting.
-- To provide 5 year forecasts providing client with several suitable investment options. 
+- Evaluate investment split and determine best weighting
+- To provide 5 year forecasts providing client with several suitable investment options
 
  ### Analysis and Forecast Periods:
 
  - Back test data from 01/10/2002 to 29/09/2022
- - Monte Carlo forecasts for 5 years.
+ - Monte Carlo forecasts for 5 years
 
  ### RIPPED has performed the following:
  -	Analysed current portfolio and potential risk to performance
@@ -39,7 +39,7 @@
 ![https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/tools.png](https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/tools.png)
 
  ### Summary Recommendations:
- As detailed in the report, RIPPED has made the following recommendations based.
+ As detailed in the report, RIPPED has made the following recommendations based
 
 - The Heavy weight - NASDAQ Portfolio has the greatest return potential of $633,339.
 - The Heavy weight - SPY Portfolio has the least downside return potential with $80,192.
