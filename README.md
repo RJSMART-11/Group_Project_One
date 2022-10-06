@@ -44,6 +44,8 @@
 - The Heavy weight - NASDAQ Portfolio has the greatest return potential of $633,339.
 - The Heavy weight - SPY Portfolio has the least downside return potential with $80,192.
 
+![https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/bokeh_plot-6%20.png](https://github.com/RJSMART-11/Group_Project_One/blob/main/Images/bokeh_plot-6%20.png)
+
  ## 1.	Detailed Analysis Outcomes 
 
  ### Performance of the following stocks over the past 5 years
