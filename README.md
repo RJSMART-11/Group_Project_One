@@ -41,10 +41,8 @@
  ### Summary Recommendations:
  As detailed in the report, RIPPED has made the following recommendations based.
 
- TBD
- TBD
- TBD
- TBD
+•The Heavy weight - NASDAQ Portfolio has the greatest return potential of $633,339.
+•The Heavy weight - SPY Portfolio has the least downside return potential with $80,192.
 
  ## 1.	Detailed Analysis Outcomes 
 
