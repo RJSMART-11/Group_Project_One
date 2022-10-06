@@ -28,9 +28,9 @@
 
  ### RIPPED has performed the following:
  -	Analysed current portfolio and potential risk to performance
- -	Provided recommendation to minimise volatility???
+ -	Provided recommendation to minimise volatility
  -	Forecast future in interest levels and likely asset performance outcomes
- -	Determine a forecasted optimal portfolio mix. 
+ -	Determine a forecasted optimal portfolio mix
  -	Provided recommendations to his investment strategy 
 
  ### Technical and Analysis Tools:
